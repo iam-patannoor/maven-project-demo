@@ -1,4 +1,4 @@
-package .war;
+package war;
 
 /**
  * Hello world!
